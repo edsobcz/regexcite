@@ -20,8 +20,6 @@ manipulation and regular expressions a bit easier.
 
 ## Installation
 
-## Installation
-
 You can install the development version of regexcite from
 [GitHub](https://github.com/) with:
 
